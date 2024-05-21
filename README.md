@@ -1,7 +1,7 @@
 
 # python
 
-Python 代码
+python code
 
 ## 模块开发
 
